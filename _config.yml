@@ -1,7 +1,7 @@
 name: moserlover
 favicon: null
-layout_spectrum: 0.24240792100317776
-typography_spectrum: 0.5037584940437227
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
