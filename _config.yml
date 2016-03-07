@@ -1,0 +1,28 @@
+name: moserlover
+favicon: null
+layout_spectrum: 0.24240792100317776
+typography_spectrum: 0.5037584940437227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15824987343512475
+  lightness: 0.8226364930160344
+  saturation: 0.9956544127780944
+  rhythmicContrast: 0.7645688205957413
+purpose: []
