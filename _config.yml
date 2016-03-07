@@ -1,6 +1,6 @@
 name: moserlover
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.1025
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#cecece'
     - '#8e6c53'
   brandStrength: 0.3125
-  lightness: 0.8226364930160344
-  saturation: 0.875
-  rhythmicContrast: 0.7645688205957413
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
